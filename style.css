@@ -132,7 +132,6 @@ main {
   gap: 2.5rem;
   align-items: flex-start;
   justify-content: flex-start;
-  box-shadow: 0 10px 2rem rgba(0, 0, 0, .6);
 }
 
 .stats {
